@@ -20,3 +20,5 @@ Nós vamos utilizá-lo sempre que desejarmos cadastrar um dado novo no nosso bac
 Para fazer nossos testes, vamos utilizar o maravilhoso [Postman](https://www.getpostman.com/):rocket:
 
 
+#### Recordar é viver. Passo a passo para instalar seu servidor do zero
+ - [] Listar os passos para configurar o package.json
