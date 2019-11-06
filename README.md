@@ -19,6 +19,10 @@ O método HTTP POST envia dados ao servidor. O tipo do corpo da solicitação é
 Nós vamos utilizá-lo sempre que desejarmos cadastrar um dado novo no nosso backend. 
 Para fazer nossos testes, vamos utilizar o maravilhoso [Postman](https://www.getpostman.com/):rocket:
 
+#### O amigo body-parser
 
-#### Recordar é viver. Passo a passo para instalar seu servidor do zero
- - [] Listar os passos para configurar o package.json
+O body-parser é um módulo capaz de converter o body da requisição para vários formatos. Um desses formatos é json, exatamente o que queremos.
+
+Então vamos instalá-lo.
+
+```npm instal body-parser --save```
