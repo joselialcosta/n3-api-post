@@ -26,3 +26,7 @@ O body-parser é um módulo capaz de converter o body da requisição para vári
 Então vamos instalá-lo.
 
 ```npm instal body-parser --save```
+
+##### Lembrete!
+O post geralmente é feito pra criar um registro único na base de dados. 
+Hoje seu desafio será implementar essa tarefa de não salvar coisas repetidas.
